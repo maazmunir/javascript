@@ -35,5 +35,3 @@ document.write("Yah! I can write HTML content through JavaScript");
 // Ch#2 Q9
 var a = "▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 alert(a);
-
-
